@@ -1,6 +1,6 @@
-# generarive-models-aimaters
+# generarive-models-aimasters
 
-My homeworks for the Generative models course by Roman Isachenko.
+My homeworks for the Generative models course.
 
 1. Autoregressive model on mnist.
 
