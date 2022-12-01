@@ -1,4 +1,4 @@
-# Generative models. AiMasters
+# Generative models. AiMasters.
 
 My homeworks for the Generative models course.
 
